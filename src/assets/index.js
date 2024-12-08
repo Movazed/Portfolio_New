@@ -30,7 +30,7 @@ import c from "./tech/C.png";
 import cpp from "./tech/C++ (CPlusPlus).png"
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import java from "./tech/java.png";
+import java from "./tech/Java.png";
 import django from "./tech/Django.png";
 import nextjs from "./tech/Next.js.png";
 import flask from "./tech/Flask.png";
