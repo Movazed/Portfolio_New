@@ -41,7 +41,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import GDSC from "./company/GDSC.png";
+import GDSC from "./company/GDSC.png"; //fixed typo
 
 import carnn from "./carnn.png";
 import azure from "./azure.png";
